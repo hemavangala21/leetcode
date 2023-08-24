@@ -28,9 +28,7 @@ class Solution {
                 }
             }
         }
-
-       
-
+      
         if(flowerbed[l-1]==0 && flowerbed[l-2] == 0){
             count++;
         }
