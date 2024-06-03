@@ -10,6 +10,7 @@
 # String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/hemavangala21/leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/hemavangala21/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/hemavangala21/leetcode/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/hemavangala21/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -29,3 +30,11 @@
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/hemavangala21/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/hemavangala21/leetcode/tree/master/0013-roman-to-integer) |
+# Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/hemavangala21/leetcode/tree/master/0013-roman-to-integer) |
