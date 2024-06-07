@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hemavangala21/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0648-replace-words](https://github.com/hemavangala21/leetcode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/hemavangala21/leetcode/tree/master/1044-find-common-characters) |
 # Binary Search
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hemavangala21/leetcode/tree/master/0013-roman-to-integer) |
+| [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/hemavangala21/leetcode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/hemavangala21/leetcode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/hemavangala21/leetcode/tree/master/1044-find-common-characters) |
@@ -51,3 +53,27 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/hemavangala21/leetcode/tree/master/0648-replace-words) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
+# Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
+# Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
+# Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
+# Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
