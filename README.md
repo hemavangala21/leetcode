@@ -14,6 +14,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/hemavangala21/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/hemavangala21/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/hemavangala21/leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/hemavangala21/leetcode/tree/master/0415-add-strings) |
 | [0648-replace-words](https://github.com/hemavangala21/leetcode/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/hemavangala21/leetcode/tree/master/1044-find-common-characters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/hemavangala21/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hemavangala21/leetcode/tree/master/0013-roman-to-integer) |
+| [0415-add-strings](https://github.com/hemavangala21/leetcode/tree/master/0415-add-strings) |
 # Trie
 |  |
 | ------- |
@@ -77,3 +79,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
+# Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/hemavangala21/leetcode/tree/master/0415-add-strings) |
