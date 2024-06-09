@@ -21,6 +21,7 @@
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hemavangala21/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hemavangala21/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0648-replace-words](https://github.com/hemavangala21/leetcode/tree/master/0648-replace-words) |
@@ -28,6 +29,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/hemavangala21/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hemavangala21/leetcode/tree/master/0074-search-a-2d-matrix) |
 # Matrix
 |  |
