@@ -21,6 +21,7 @@
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hemavangala21/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/hemavangala21/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hemavangala21/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -43,6 +44,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hemavangala21/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/hemavangala21/leetcode/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/hemavangala21/leetcode/tree/master/0409-longest-palindrome) |
