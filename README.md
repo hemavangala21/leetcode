@@ -92,3 +92,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemavangala21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/hemavangala21/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
