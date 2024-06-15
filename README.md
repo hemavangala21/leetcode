@@ -7,6 +7,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemavangala21/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/hemavangala21/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/hemavangala21/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hemavangala21/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/hemavangala21/leetcode/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/hemavangala21/leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
@@ -50,6 +51,7 @@
 | [0001-two-sum](https://github.com/hemavangala21/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/hemavangala21/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/hemavangala21/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hemavangala21/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/hemavangala21/leetcode/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/hemavangala21/leetcode/tree/master/0648-replace-words) |
@@ -103,6 +105,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemavangala21/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/hemavangala21/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/hemavangala21/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/hemavangala21/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/hemavangala21/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hemavangala21/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 # Recursion
