@@ -80,6 +80,7 @@
 # Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/hemavangala21/leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
 # Sorting
 |  |
@@ -140,3 +141,7 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/hemavangala21/leetcode/tree/master/0196-delete-duplicate-emails) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/hemavangala21/leetcode/tree/master/0191-number-of-1-bits) |
