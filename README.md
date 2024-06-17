@@ -136,3 +136,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemavangala21/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+# Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/hemavangala21/leetcode/tree/master/0196-delete-duplicate-emails) |
