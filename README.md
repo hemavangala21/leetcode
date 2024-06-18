@@ -72,6 +72,7 @@
 | [0002-add-two-numbers](https://github.com/hemavangala21/leetcode/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/hemavangala21/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hemavangala21/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/hemavangala21/leetcode/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/hemavangala21/leetcode/tree/master/0415-add-strings) |
 # Trie
 |  |
@@ -109,6 +110,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hemavangala21/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemavangala21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Linked List
 |  |
@@ -145,3 +147,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/hemavangala21/leetcode/tree/master/0191-number-of-1-bits) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/hemavangala21/leetcode/tree/master/0070-climbing-stairs) |
