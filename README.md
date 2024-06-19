@@ -134,6 +134,7 @@
 # Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hemavangala21/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/hemavangala21/leetcode/tree/master/0234-palindrome-linked-list) |
 # String Matching
 |  |
@@ -151,3 +152,11 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/hemavangala21/leetcode/tree/master/0070-climbing-stairs) |
+# Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hemavangala21/leetcode/tree/master/0232-implement-queue-using-stacks) |
+# Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hemavangala21/leetcode/tree/master/0232-implement-queue-using-stacks) |
