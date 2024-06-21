@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hemavangala21/leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hemavangala21/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemavangala21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hemavangala21/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hemavangala21/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/hemavangala21/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemavangala21/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/hemavangala21/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hemavangala21/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -88,6 +90,7 @@
 # Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hemavangala21/leetcode/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1675-magnetic-force-between-two-balls](https://github.com/hemavangala21/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Heap (Priority Queue)
