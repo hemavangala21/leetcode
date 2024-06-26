@@ -41,6 +41,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hemavangala21/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/hemavangala21/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/hemavangala21/leetcode/tree/master/0648-replace-words) |
+| [0792-binary-search](https://github.com/hemavangala21/leetcode/tree/master/0792-binary-search) |
 | [1044-find-common-characters](https://github.com/hemavangala21/leetcode/tree/master/1044-find-common-characters) |
 | [1675-magnetic-force-between-two-balls](https://github.com/hemavangala21/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Search
@@ -48,6 +49,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/hemavangala21/leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/hemavangala21/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0792-binary-search](https://github.com/hemavangala21/leetcode/tree/master/0792-binary-search) |
 | [1675-magnetic-force-between-two-balls](https://github.com/hemavangala21/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Matrix
 |  |
