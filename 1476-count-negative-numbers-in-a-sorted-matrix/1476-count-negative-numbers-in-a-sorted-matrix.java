@@ -8,7 +8,6 @@ class Solution {
             
             while (start <= end) {
                 int mid = start + (end - start) / 2;
-                
                 if (grid[i][mid] < 0) {
                     count += (end - mid + 1); // Counting all elements from mid to end as negative
                     end = mid - 1; // Move end to mid - 1 to check for more negative numbers on the left
