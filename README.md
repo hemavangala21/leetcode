@@ -43,6 +43,7 @@
 | [0648-replace-words](https://github.com/hemavangala21/leetcode/tree/master/0648-replace-words) |
 | [0792-binary-search](https://github.com/hemavangala21/leetcode/tree/master/0792-binary-search) |
 | [1044-find-common-characters](https://github.com/hemavangala21/leetcode/tree/master/1044-find-common-characters) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hemavangala21/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/hemavangala21/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Search
 |  |
@@ -51,11 +52,13 @@
 | [0069-sqrtx](https://github.com/hemavangala21/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/hemavangala21/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/hemavangala21/leetcode/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hemavangala21/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/hemavangala21/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 # Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hemavangala21/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hemavangala21/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 # Greedy
 |  |
 | ------- |
