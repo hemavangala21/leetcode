@@ -220,6 +220,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/hemavangala21/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/hemavangala21/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hemavangala21/leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/hemavangala21/leetcode/tree/master/0812-rotate-string) |
@@ -244,4 +245,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/hemavangala21/leetcode/tree/master/0812-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/hemavangala21/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
