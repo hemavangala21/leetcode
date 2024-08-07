@@ -3,8 +3,8 @@ class Solution {
         if(s.length()!= goal.length()){
             return false;
         }
-        String concatinated = s+s;
+        String concatenate= s+s;
 
-        return concatinated.contains(goal);
+        return concatenate.contains(goal);
     }
 }
