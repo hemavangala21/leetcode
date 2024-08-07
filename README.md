@@ -192,6 +192,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hemavangala21/leetcode/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/hemavangala21/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/hemavangala21/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/hemavangala21/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
@@ -228,4 +230,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/hemavangala21/leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/hemavangala21/leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
