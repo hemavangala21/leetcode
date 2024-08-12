@@ -208,6 +208,7 @@
 ## Array
 |  |
 | ------- |
+| [1306-minimum-absolute-difference](https://github.com/hemavangala21/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hemavangala21/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
 ## Hash Table
@@ -233,6 +234,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/hemavangala21/leetcode/tree/master/0242-valid-anagram) |
+| [1306-minimum-absolute-difference](https://github.com/hemavangala21/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hemavangala21/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
 ## Stack
