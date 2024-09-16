@@ -243,6 +243,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hemavangala21/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/hemavangala21/leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -270,4 +271,16 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hemavangala21/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hemavangala21/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hemavangala21/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
