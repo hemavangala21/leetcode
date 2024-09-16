@@ -208,6 +208,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
 | [1306-minimum-absolute-difference](https://github.com/hemavangala21/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hemavangala21/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -261,4 +262,12 @@
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hemavangala21/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
