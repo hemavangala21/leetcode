@@ -294,4 +294,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/hemavangala21/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/hemavangala21/leetcode/tree/master/0101-symmetric-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/hemavangala21/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
