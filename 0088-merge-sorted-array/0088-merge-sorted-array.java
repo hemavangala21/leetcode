@@ -18,6 +18,6 @@ class Solution {
         }
         for (i = 0; i < m + n; i++) {
             nums1[i] = arr[i];
-        }    //need to copy the elements in arr to nums1
+        }   
     }
 }
