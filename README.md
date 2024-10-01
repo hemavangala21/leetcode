@@ -208,6 +208,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/hemavangala21/leetcode/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hemavangala21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
@@ -259,6 +260,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/hemavangala21/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/hemavangala21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/hemavangala21/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
