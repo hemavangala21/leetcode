@@ -212,6 +212,7 @@
 | [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hemavangala21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
+| [1256-rank-transform-of-an-array](https://github.com/hemavangala21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/hemavangala21/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hemavangala21/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
@@ -220,6 +221,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/hemavangala21/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hemavangala21/leetcode/tree/master/0242-valid-anagram) |
+| [1256-rank-transform-of-an-array](https://github.com/hemavangala21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hemavangala21/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hemavangala21/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
@@ -240,6 +242,7 @@
 | [0088-merge-sorted-array](https://github.com/hemavangala21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/hemavangala21/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
+| [1256-rank-transform-of-an-array](https://github.com/hemavangala21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/hemavangala21/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hemavangala21/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
