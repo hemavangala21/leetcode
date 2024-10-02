@@ -196,6 +196,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hemavangala21/leetcode/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/hemavangala21/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/hemavangala21/leetcode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/hemavangala21/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hemavangala21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
@@ -254,6 +256,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hemavangala21/leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
 | [2032-largest-odd-number-in-string](https://github.com/hemavangala21/leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
