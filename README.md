@@ -218,6 +218,7 @@
 | [1306-minimum-absolute-difference](https://github.com/hemavangala21/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1694-make-sum-divisible-by-p](https://github.com/hemavangala21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hemavangala21/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemavangala21/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hemavangala21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
@@ -251,6 +252,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/hemavangala21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/hemavangala21/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hemavangala21/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemavangala21/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hemavangala21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
@@ -330,4 +332,8 @@
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/hemavangala21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+## Sliding Window
+|  |
+| ------- |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemavangala21/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
