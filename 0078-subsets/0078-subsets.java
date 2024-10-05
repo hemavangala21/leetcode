@@ -9,6 +9,7 @@ class Solution {
             List<Integer> subset = new ArrayList<>(result.get(i));
             subset.add(num);
             result.add(subset);
+            
         }
     }
     return result;
