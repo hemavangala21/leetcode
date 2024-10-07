@@ -228,6 +228,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/hemavangala21/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hemavangala21/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/hemavangala21/leetcode/tree/master/0383-ransom-note) |
 | [1256-rank-transform-of-an-array](https://github.com/hemavangala21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/hemavangala21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/hemavangala21/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -241,6 +242,7 @@
 | [0205-isomorphic-strings](https://github.com/hemavangala21/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hemavangala21/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/hemavangala21/leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/hemavangala21/leetcode/tree/master/0383-ransom-note) |
 | [0812-rotate-string](https://github.com/hemavangala21/leetcode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/hemavangala21/leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/hemavangala21/leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -294,6 +296,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/hemavangala21/leetcode/tree/master/0383-ransom-note) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hemavangala21/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Backtracking
 |  |
