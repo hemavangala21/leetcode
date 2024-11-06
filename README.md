@@ -225,6 +225,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemavangala21/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hemavangala21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3291-find-if-array-can-be-sorted](https://github.com/hemavangala21/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemavangala21/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hemavangala21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3291-find-if-array-can-be-sorted](https://github.com/hemavangala21/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Stack
 |  |
 | ------- |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/hemavangala21/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Tree
 |  |
 | ------- |
