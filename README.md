@@ -199,6 +199,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/hemavangala21/leetcode/tree/master/0055-jump-game) |
+| [0494-target-sum](https://github.com/hemavangala21/leetcode/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/hemavangala21/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -216,6 +217,7 @@
 | [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hemavangala21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/hemavangala21/leetcode/tree/master/0494-target-sum) |
 | [0941-sort-array-by-parity](https://github.com/hemavangala21/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/hemavangala21/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/hemavangala21/leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -316,6 +318,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/hemavangala21/leetcode/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
