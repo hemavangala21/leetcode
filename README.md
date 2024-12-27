@@ -201,6 +201,7 @@
 | [0055-jump-game](https://github.com/hemavangala21/leetcode/tree/master/0055-jump-game) |
 | [0494-target-sum](https://github.com/hemavangala21/leetcode/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/hemavangala21/leetcode/tree/master/1013-fibonacci-number) |
+| [1063-best-sightseeing-pair](https://github.com/hemavangala21/leetcode/tree/master/1063-best-sightseeing-pair) |
 ## Recursion
 |  |
 | ------- |
@@ -220,6 +221,7 @@
 | [0494-target-sum](https://github.com/hemavangala21/leetcode/tree/master/0494-target-sum) |
 | [0941-sort-array-by-parity](https://github.com/hemavangala21/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/hemavangala21/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/hemavangala21/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/hemavangala21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/hemavangala21/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1694-make-sum-divisible-by-p](https://github.com/hemavangala21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
