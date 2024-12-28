@@ -200,6 +200,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/hemavangala21/leetcode/tree/master/0055-jump-game) |
 | [0494-target-sum](https://github.com/hemavangala21/leetcode/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hemavangala21/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1013-fibonacci-number](https://github.com/hemavangala21/leetcode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/hemavangala21/leetcode/tree/master/1063-best-sightseeing-pair) |
 ## Recursion
@@ -219,6 +220,7 @@
 | [0088-merge-sorted-array](https://github.com/hemavangala21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/hemavangala21/leetcode/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hemavangala21/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/hemavangala21/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/hemavangala21/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1063-best-sightseeing-pair](https://github.com/hemavangala21/leetcode/tree/master/1063-best-sightseeing-pair) |
