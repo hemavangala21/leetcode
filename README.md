@@ -261,6 +261,7 @@
 | [0874-backspace-string-compare](https://github.com/hemavangala21/leetcode/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hemavangala21/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/hemavangala21/leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/hemavangala21/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hemavangala21/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hemavangala21/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/hemavangala21/leetcode/tree/master/1923-sentence-similarity-iii) |
@@ -376,6 +377,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/hemavangala21/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/hemavangala21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 ## Sliding Window
 |  |
