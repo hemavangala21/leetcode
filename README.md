@@ -234,6 +234,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemavangala21/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hemavangala21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/hemavangala21/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hemavangala21/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
@@ -267,6 +268,7 @@
 | [1923-sentence-similarity-iii](https://github.com/hemavangala21/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/hemavangala21/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/hemavangala21/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hemavangala21/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hemavangala21/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/hemavangala21/leetcode/tree/master/3451-string-compression-iii) |
@@ -379,6 +381,7 @@
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemavangala21/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/hemavangala21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/hemavangala21/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Sliding Window
 |  |
 | ------- |
