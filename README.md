@@ -238,6 +238,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hemavangala21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hemavangala21/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hemavangala21/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/hemavangala21/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -277,6 +278,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/hemavangala21/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hemavangala21/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hemavangala21/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/hemavangala21/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/hemavangala21/leetcode/tree/master/3451-string-compression-iii) |
 ## Sorting
 |  |
@@ -313,6 +315,7 @@
 | ------- |
 | [0812-rotate-string](https://github.com/hemavangala21/leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/hemavangala21/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/hemavangala21/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -405,4 +408,16 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/hemavangala21/leetcode/tree/master/1002-maximum-width-ramp) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/hemavangala21/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/hemavangala21/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/hemavangala21/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
