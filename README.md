@@ -215,6 +215,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hemavangala21/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/hemavangala21/leetcode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/hemavangala21/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
@@ -242,6 +243,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/hemavangala21/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/hemavangala21/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/hemavangala21/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hemavangala21/leetcode/tree/master/0242-valid-anagram) |
