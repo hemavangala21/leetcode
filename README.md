@@ -260,6 +260,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hemavangala21/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hemavangala21/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hemavangala21/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2434-design-a-number-container-system](https://github.com/hemavangala21/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2502-sort-the-people](https://github.com/hemavangala21/leetcode/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hemavangala21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hemavangala21/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -434,4 +435,16 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hemavangala21/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Design
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/hemavangala21/leetcode/tree/master/2434-design-a-number-container-system) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/hemavangala21/leetcode/tree/master/2434-design-a-number-container-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/hemavangala21/leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
