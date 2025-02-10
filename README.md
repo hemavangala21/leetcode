@@ -291,6 +291,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hemavangala21/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/hemavangala21/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hemavangala21/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/hemavangala21/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/hemavangala21/leetcode/tree/master/3451-string-compression-iii) |
 ## Sorting
 |  |
@@ -315,6 +316,7 @@
 | [1002-maximum-width-ramp](https://github.com/hemavangala21/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/hemavangala21/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hemavangala21/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/hemavangala21/leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -419,6 +421,7 @@
 | [0874-backspace-string-compare](https://github.com/hemavangala21/leetcode/tree/master/0874-backspace-string-compare) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hemavangala21/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hemavangala21/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/hemavangala21/leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
