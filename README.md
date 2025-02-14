@@ -222,6 +222,7 @@
 | [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/hemavangala21/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemavangala21/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/hemavangala21/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/hemavangala21/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hemavangala21/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -253,6 +254,7 @@
 | [0205-isomorphic-strings](https://github.com/hemavangala21/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/hemavangala21/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/hemavangala21/leetcode/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/hemavangala21/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hemavangala21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/hemavangala21/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1694-make-sum-divisible-by-p](https://github.com/hemavangala21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
