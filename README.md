@@ -283,6 +283,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hemavangala21/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/hemavangala21/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hemavangala21/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1894-merge-strings-alternately](https://github.com/hemavangala21/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/hemavangala21/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1923-sentence-similarity-iii](https://github.com/hemavangala21/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/hemavangala21/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -343,6 +344,7 @@
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/hemavangala21/leetcode/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/hemavangala21/leetcode/tree/master/0941-sort-array-by-parity) |
+| [1894-merge-strings-alternately](https://github.com/hemavangala21/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/hemavangala21/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/hemavangala21/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Counting
