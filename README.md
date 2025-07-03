@@ -196,6 +196,7 @@
 | [1013-fibonacci-number](https://github.com/hemavangala21/leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/hemavangala21/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hemavangala21/leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/hemavangala21/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/hemavangala21/leetcode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/hemavangala21/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -370,6 +372,7 @@
 | [0078-subsets](https://github.com/hemavangala21/leetcode/tree/master/0078-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hemavangala21/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3291-find-if-array-can-be-sorted](https://github.com/hemavangala21/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/hemavangala21/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -431,6 +434,7 @@
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hemavangala21/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hemavangala21/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/hemavangala21/leetcode/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/hemavangala21/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Stack
 |  |
 | ------- |
