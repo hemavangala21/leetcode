@@ -230,6 +230,7 @@
 | [0455-assign-cookies](https://github.com/hemavangala21/leetcode/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/hemavangala21/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/hemavangala21/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/hemavangala21/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/hemavangala21/leetcode/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/hemavangala21/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1063-best-sightseeing-pair](https://github.com/hemavangala21/leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -260,6 +261,7 @@
 | [0242-valid-anagram](https://github.com/hemavangala21/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/hemavangala21/leetcode/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hemavangala21/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0940-fruit-into-baskets](https://github.com/hemavangala21/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1256-rank-transform-of-an-array](https://github.com/hemavangala21/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/hemavangala21/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1694-make-sum-divisible-by-p](https://github.com/hemavangala21/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -426,6 +428,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/hemavangala21/leetcode/tree/master/0940-fruit-into-baskets) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/hemavangala21/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
